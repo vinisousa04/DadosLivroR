@@ -1,4 +1,6 @@
-#' Data set que utilizada como exemplo no livro
+#' Data set mostado para utilizar no sexemplos do livro, os anos
+#' foram escolhidos com base nos critérios de disponibilidade e
+#' de modo que todas as variáveis tivessem informções daquele ano.
 #'
 #'@format Data frame (tibble) com 1184 linhas e 9 colunas
 #'
